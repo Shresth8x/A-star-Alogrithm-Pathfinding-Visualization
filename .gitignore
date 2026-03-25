@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Project specific
+cache/
+output/
+
+# Documentation (local reference only)
+IMPLEMENTATION.md
+PROJECT_SUMMARY.md
+USAGE_GUIDE.md
+
+# Generated media (but allow assets/ folder)
+output/*.gif
+output/*.mp4
+*.plan.md
+
+# Flask
+instance/
+.webassets-cache
+*.db
+*.sqlite
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
