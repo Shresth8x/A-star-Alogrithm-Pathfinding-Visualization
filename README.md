@@ -2,9 +2,7 @@
 
 An interactive web application and static GIF generator for visualizing the A* pathfinding algorithm on real street networks using OpenStreetMap data.
 
-![Chicago_Loop_Diagonal](https://github.com/user-attachments/assets/af804b09-ab18-4ef0-8c8d-5da39873f4d2)
-
-![Chicago Loop Diagonal Route](assets/Chicago_Loop_Diagonal.gif)
+![Chicago_Loop_Diagonal](https://github.com/user-attachments/assets/6e083d11-762a-46e4-8085-042d7051a840)
 
 ## Quick Start
 
@@ -58,14 +56,13 @@ Outputs are saved in the `output/` directory.
 ## Examples
 
 ### Chicago Grid System
-
-![Chicago West Loop to East Loop](assets/Chicago_West_Loop_to_East_Loop.gif)
+![Chicago_West_Loop_to_East_Loop](https://github.com/user-attachments/assets/b8927e02-3ed5-4384-b072-d2ae188809e2)
 
 The grid pattern in Chicago allows for direct routes with minimal exploration.
 
 ### Rome Irregular Streets
 
-![Rome Forum Diagonal](assets/Rome_Forum_Diagonal.gif)
+![Rome_Forum_Diagonal](https://github.com/user-attachments/assets/2356bf4a-2714-430d-bb6a-3e3aa2bdfcbc)
 
 The irregular medieval streets in Rome require more exploration to find optimal paths.
 
