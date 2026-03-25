@@ -2,6 +2,7 @@
 
 An interactive web application and static GIF generator for visualizing the A* pathfinding algorithm on real street networks using OpenStreetMap data.
 
+![Chicago_Loop_Diagonal](https://github.com/user-attachments/assets/af804b09-ab18-4ef0-8c8d-5da39873f4d2)
 
 ![Chicago Loop Diagonal Route](assets/Chicago_Loop_Diagonal.gif)
 
